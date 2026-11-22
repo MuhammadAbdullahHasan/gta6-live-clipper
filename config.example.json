@@ -1,0 +1,86 @@
+{
+  "max_streams": 2,
+  "quality": "1080p60,1080p,best",
+  "segment_seconds": 6,
+  "buffer_minutes": 5,
+  "pre_seconds": 16,
+  "post_seconds": 10,
+  "cooldown_seconds": 90,
+  "warmup_seconds": 90,
+  "min_score": 4.0,
+  "hook_text_on": true,
+  "hook_texts": [
+    "CHAT WENT CRAZY",
+    "NOBODY EXPECTED THIS",
+    "GTA 6 IS INSANE",
+    "WAIT FOR IT",
+    "THIS GAME IS UNREAL",
+    "BRO DID NOT SEE THAT COMING",
+    "GTA 6 HAS NO LIMITS",
+    "WATCH TILL THE END"
+  ],
+  "titles": [
+    "Nobody expected this in GTA 6 😂",
+    "lost it in GTA 6 💀",
+    "GTA 6 is actually insane 🔥",
+    "can't believe this happened in GTA 6 😭",
+    "Wait for it… GTA 6 😳",
+    "vs GTA 6 physics 🤯",
+    "did NOT see that coming in GTA 6 😭",
+    "GTA 6 has no limits 😂"
+  ],
+  "title_suffix": " #GTA6 #shorts",
+  "youtube_per_day": 3,
+  "youtube_min_gap_minutes": 120,
+  "max_clip_age_hours": 6,
+  "drive_keep_hours": 3,
+  "local_keep_hours": 24,
+  "drive_folder": "~/Library/CloudStorage/GoogleDrive-YOUR_EMAIL/My Drive/GTA6 Shorts",
+  "audio_spike_db": 9,
+  "yt_crop_bottom": 0.14,
+  "credits": {
+    "yt_duckyreloaded1": {
+      "title_tag": "",
+      "video_text": "Clipping account - Ducky Bhai live stream"
+    }
+  },
+  "launch_until": "2026-11-26",
+  "launch_per_day": 4,
+  "launch_gap_minutes": 90,
+  "youtube_channel_id": "YOUR_CHANNEL_ID",
+  "layouts": {
+    "ishowspeed": {
+      "cam": [
+        0.0,
+        0.425,
+        0.2,
+        0.223
+      ],
+      "keep": 0.58
+    },
+    "yt_duckyreloaded1": {
+      "cam": [
+        0.836,
+        0.05,
+        0.164,
+        0.183
+      ]
+    }
+  },
+  "game_keep_width": 0.66,
+  "upload_mode": "studio",
+  "names": {
+    "ishowspeed": "IShowSpeed",
+    "yt_duckyreloaded1": "Ducky Bhai",
+    "kick_adinross": "Adin Ross",
+    "xqc": "xQc",
+    "kick_xqc": "xQc",
+    "kaicenat": "Kai Cenat",
+    "summit1g": "Summit1g",
+    "caseoh_": "CaseOh",
+    "jynxzi": "Jynxzi",
+    "zaddacks": "Zaddacks",
+    "typicalgamer": "TypicalGamer"
+  },
+  "subtitles_on": true
+}

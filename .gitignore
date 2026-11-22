@@ -1,0 +1,11 @@
+.env
+.venv/
+logs/
+state.json
+config.json
+.clipper.lock
+.disabled
+*.mp4
+*.ts
+__pycache__/
+.DS_Store

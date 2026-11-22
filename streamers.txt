@@ -1,0 +1,13 @@
+# One streamer per line, highest priority first (max_streams recorded at once).
+# Twitch: name | YouTube: yt:handle | Kick: kick:name | TikTok: tiktok:name
+yt:duckyreloaded1
+ishowspeed
+kick:adinross
+typicalgamer
+zaddacks
+kick:xqc
+xqc
+summit1g
+kaicenat
+caseoh_
+jynxzi
